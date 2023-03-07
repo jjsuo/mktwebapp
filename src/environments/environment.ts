@@ -53,7 +53,7 @@ export const environment = {
      * You can retrieve the application token by registering a new web application in CRM.
      * Note: This token is not required if you're using the deprecated Event Management Portal API.
      */
-    emApplicationtoken: 'JztSF7skFtfItYxoe_NRGVwa7YHyAQyuR90kgAy2o9cdiziwYONZcqwCZBnr2vAZbyn1gTejn08zHMHX72yjtLTstTUOu7CTL44HS0ZS9n1AtGBS3WE4JRzMcqkIUGTERedf4xRLl-13aztODDCEVW7DDrN_dQBSmE3TPT8p8aW1AT92ulSo-K7rAdKVi44PAUS_2WqtVYH5vgyFul7oiVg-_G7-_9ZY-NrhcZylUMU1mS5q670E2LkU7tyrjlFp',
+    emApplicationtoken: '8qlwPDRfVFMfvR5aZ3wxlu2VE0bLvBeQlhYrbGzsXklBgI-cg5WzIHnK1Ai2gLBFKUYh9HLrZJedIi7ClCidllGGHZR0WYR689Ba7aQutdocVc78bsbtH9bVmqxNYXAfqg8N7qzPjLjm7UhdlbxyawPC5isQ6sYe10zp9PGt8LhvXUtGSifqYgNNZjGHkL2hmw4INwARguu_MfqL6GWKVJvYkrxDWZc85XHePI7UjxFIOiJLIvv2fq4eqyZZ9QGc',
     //emApplicationtoken: 'JztSF7skFtfItYxoe_NRGVwa7YHyAQyuR90kgAy2o9cdiziwYONZcqwCZBnr2vAZbyn1gTejn08zHMHX72yjtLTstTUOu7CTL44HS0ZS9n1AtGBS3WE4JRzMcqkIUGTERedf4xRLl-13aztODDCEVW7DDrN_dQBSmE3TPT8p8aW1AT92ulSo-K7rAdKVi44PAUS_2WqtVYH5vgyFul7oiVg-_G7-_9ZY-NrhcZylUMU1mS5q670E2LkU7tyrjlFp',
     /**
      * This flag specifies whether user authentication is supported (meaning user can to register/sign-in).
