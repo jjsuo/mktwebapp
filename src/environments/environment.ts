@@ -24,7 +24,9 @@ export const environment = {
      * get after registering your web application. Additionally you need to append 'EvtMgmt/api/v2.0/'.
      * Note: The URL **must** have a trailing slash.
      **/
-    apiEndpoint: 'https://HOST/EvtMgmt/api/v2.0/',
+    apiEndpoint: 'https://ff02349d8c5941918b4670a842d31798.svc.dynamics.com/EvtMgmt/api/v2.0/',
+
+    //apiEndpoint: 'https://ff02349d8c5941918b4670a842d31798.svc.dynamics.com/EvtMgmt/api/v2.0/',
 
     /**
      * Points to the URL where the localization files are stored (by default they are stored in the root directory).
@@ -51,8 +53,8 @@ export const environment = {
      * You can retrieve the application token by registering a new web application in CRM.
      * Note: This token is not required if you're using the deprecated Event Management Portal API.
      */
-    emApplicationtoken: '',
-
+    emApplicationtoken: 'JztSF7skFtfItYxoe_NRGVwa7YHyAQyuR90kgAy2o9cdiziwYONZcqwCZBnr2vAZbyn1gTejn08zHMHX72yjtLTstTUOu7CTL44HS0ZS9n1AtGBS3WE4JRzMcqkIUGTERedf4xRLl-13aztODDCEVW7DDrN_dQBSmE3TPT8p8aW1AT92ulSo-K7rAdKVi44PAUS_2WqtVYH5vgyFul7oiVg-_G7-_9ZY-NrhcZylUMU1mS5q670E2LkU7tyrjlFp',
+    //emApplicationtoken: 'JztSF7skFtfItYxoe_NRGVwa7YHyAQyuR90kgAy2o9cdiziwYONZcqwCZBnr2vAZbyn1gTejn08zHMHX72yjtLTstTUOu7CTL44HS0ZS9n1AtGBS3WE4JRzMcqkIUGTERedf4xRLl-13aztODDCEVW7DDrN_dQBSmE3TPT8p8aW1AT92ulSo-K7rAdKVi44PAUS_2WqtVYH5vgyFul7oiVg-_G7-_9ZY-NrhcZylUMU1mS5q670E2LkU7tyrjlFp',
     /**
      * This flag specifies whether user authentication is supported (meaning user can to register/sign-in).
      * If set to false then the application will not display a possibility sign-in or register.
